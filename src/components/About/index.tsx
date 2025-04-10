@@ -16,14 +16,15 @@ const About = () => {
                 Cześć!
 Zajmujemy się organizacją czasu na terenie Hurghady w Egipcie.</h2>
                 <p className="mb-10 text-base leading-relaxed text-body-color dark:text-dark-6">
-                  The main thrust is to focus on educating attendees on how to
-                  best protect highly vulnerable business applications with
-                  interactive panel discussions and roundtables led by subject
-                  matter experts.
+                  
+ Na naszym pokładzie jest 3 muszkieterów - Alaa, Egipcjanin, w branży od 2006 r. 10 lat mieszkał w Polsce. Specjalista od Egiptu, licencjonowany przewodnik po kraju, wieloletnie doświadczenie w firmach takich jak Tui czy Rainbow. Brygida, od 5 lat mieszkanka Hurghady, 4 lata doświadczenia jako przewodnik wycieczek. Opowie wam o Egipcie ze swojej perspektywy - polki mieszkającej na stałe w Egipcie. Jakub, 2 lata doświadczenia jako przewodnik wycieczek w Hurghadzie, uwielbia safari, rejsy, odkrywa Hurghadę od strony rozrywkowej, gastronomicznej i handlowej. 
+
                   <br /> <br />
-                  The main thrust is to focus on educating attendees on how to
-                  best protect highly vulnerable business applications with
-                  interactive panel.
+W kontakcie z klientami jesteśmy bardzo otwarci i szczerzy. U nas wszystko jest przejrzyste, a podejście do klienta elastyczne i przyjacielskie. Dla nas najważniejsze jest Wasze zadowolenie i radość, jakie powinny towarzyszyć w trakcie wakacji. Nie tolerujemy sztampowych, formatkowych form obsługi klienta, cechuje nas zaangażowanie i indywidualne podejście do realizowanych rozrywek.
+
+                  <br /> <br />
+Więc jeżeli Wy również cenicie sobie swojski klimat, elastyczność, przyjacielskie stosunki i uczciwość, zapraszamy!
+
                 </p>
 
                 <Link
