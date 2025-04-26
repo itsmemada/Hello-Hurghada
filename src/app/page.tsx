@@ -9,6 +9,10 @@ import Features from "@/components/Features";
 import Hero from "@/components/Hero";
 import Pricing from "@/components/Pricing";
 import Team from "@/components/Team";
+import Exploration from "@/components/Exploration"
+import Entertainment from "@/components/Entertainment"
+import Cruises from "@/components/Cruises"
+import Sahara from "@/components/Sahara"
 import Testimonials from "@/components/Testimonials";
 import { getAllPosts } from "@/utils/markdown";
 import { Metadata } from "next";
